@@ -1,0 +1,14 @@
+.env
+.DS_Store
+.RHistory
+.RData
+*/ChatBox_Interaction/*.csv
+mturk_app_message.csv
+sampled_conversations.csv
+e2_intervention_study/sampled_conversations 2.numbers
+e2_intervention_study/sampled_conversations_clean.csv
+e2_intervention_study/sampled_conversations_csv.csv
+raw_messages.json
+human_readable_messages_not_divided.json
+messages_with_day_number.csv
+farewell_analysis_results_without_sunnies_notes12M.csv

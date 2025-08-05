@@ -1,0 +1,50 @@
+INFO:root:Navigated to polybuzz login page
+INFO:root:User has confirmed login
+INFO:root:Navigating back to the main polybuzz page
+INFO:root:Begin selecting the character: Character_1
+INFO:root:Refreshed the page.
+ERROR:root:Error occurred while selecting the character: Message: 
+
+ERROR:root:Error occurred during conversation generation: Message: 
+
+INFO:root:Page refreshed successfully
+INFO:root:Begin selecting the character: Character_1
+INFO:root:Refreshed the page.
+ERROR:root:Error occurred while selecting the character: Message: 
+
+ERROR:root:Error occurred during conversation generation: Message: 
+
+INFO:root:Page refreshed successfully
+INFO:root:Begin selecting the character: Character_1
+INFO:root:Refreshed the page.
+ERROR:root:Error occurred while selecting the character: Message: 
+
+ERROR:root:Error occurred during conversation generation: Message: 
+
+INFO:root:Page refreshed successfully
+INFO:root:Begin selecting the character: Character_1
+INFO:root:Refreshed the page.
+ERROR:root:Error occurred while selecting the character: Message: 
+
+ERROR:root:Error occurred during conversation generation: Message: 
+
+INFO:root:Page refreshed successfully
+INFO:root:Begin selecting the character: Character_1
+INFO:root:Refreshed the page.
+ERROR:root:Error occurred while selecting the character: Message: 
+
+ERROR:root:Error occurred during conversation generation: Message: 
+
+INFO:root:Page refreshed successfully
+INFO:root:Begin selecting the character: Character_1
+INFO:root:Refreshed the page.
+ERROR:root:Error occurred while selecting the character: Message: 
+
+ERROR:root:Error occurred during conversation generation: Message: 
+
+INFO:root:Page refreshed successfully
+INFO:root:Begin selecting the character: Character_1
+INFO:root:Refreshed the page.
+WARNING:urllib3.connectionpool:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10673add0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/633186a0-c424-40a9-af78-6dea019401be
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x106807150>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/633186a0-c424-40a9-af78-6dea019401be
+WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10680c8d0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/633186a0-c424-40a9-af78-6dea019401be
